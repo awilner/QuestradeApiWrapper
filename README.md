@@ -7,7 +7,7 @@ So far only the account requests are implemented, market requests should be impl
 ## Getting Started
 In order to use the Questrade API, you need to create and authorize an app, following instructions in https://www.questrade.com/api/documentation/getting-started. Write down the token generated for you. Note that this token expires in 7 days. If it expires, you need to go into the Questrade API Centre and generate a new one.
 
-To use this wrapper, just add the questrade-api-wrapper NuGet package to your VSCode project.
+To use this wrapper, just add the `QuestradeApiWrapper` NuGet package to your VSCode project.
 
 
 ## Authentication
